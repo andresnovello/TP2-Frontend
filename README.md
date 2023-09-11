@@ -1,5 +1,5 @@
 # TP2-Frontend
-Este repositorio contiene dos páginas web: una sin utilizar Bootstrap y otra utilizando Bootstrap. A continuación, se describen las características de ejecución para ambas páginas.
+Este repositorio contiene dos páginas web: una sin utilizar Bootstrap y otra utilizando Bootstrap.
 
 # Página sin Bootstrap
 La página sin Bootstrap se ha creado sin utilizar el marco de diseño Bootstrap. A continuación, se describen los pasos para ejecutarla:
